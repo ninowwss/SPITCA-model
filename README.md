@@ -8,7 +8,7 @@ Model developers and coders:
 - [Joyce Huei-Jiuan Wu](https://github.com/ninowwss)
 - [Professor Chi-Tai Fang](https://scholars.lib.ntu.edu.tw/cris/rp/rp06639)
 - Ya-Ping Cheng
-- Yi-Hsuan Chen
+- Dr Yi-Hsuan Chen
 - Chia-Chen Chang
 
 Maintainer of this repository: [Joyce Huei-Jiuan Wu](https://github.com/ninowwss)
