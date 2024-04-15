@@ -1,5 +1,5 @@
 # SPITCA-model
-This repository include a HIV compartmental model built in Stella® software and a stochastic model code in R.
+This repository includes a HIV compartmental model built in the Stella® software and a stochastic model code in R.
 
 
 [![DOI](https://zenodo.org/badge/612906740.svg)](https://zenodo.org/badge/latestdoi/612906740) 
