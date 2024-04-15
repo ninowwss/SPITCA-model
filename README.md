@@ -7,9 +7,10 @@ This repository include a HIV compartmental model built in Stella® software and
 Model developers and coders: 
 - [Joyce Huei-Jiuan Wu](https://github.com/ninowwss)
 - [Professor Chi-Tai Fang](https://scholars.lib.ntu.edu.tw/cris/rp/rp06639)
-- [Ya-Ping Cheng]
-- [Yi-Hsuan Chen]
-- [Chia-Chen Chang]
+- Ya-Ping Cheng
+- Yi-Hsuan Chen
+- Chia-Chen Chang
+
 Maintainer of this repository: [Joyce Huei-Jiuan Wu](https://github.com/ninowwss)
 
 ORCiD ID: [0000-0002-5085-1976](https://orcid.org/my-orcid?orcid=0000-0002-5085-1976)
